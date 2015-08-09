@@ -1,0 +1,33 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "babel + gulp + mocha + power assert",
+  "main": "all.js",
+  "dependencies": {
+    "babel": "^5.8.21"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "espower-babel": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.0",
+    "mocha": "^2.2.5",
+    "power-assert": "^0.11.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-mochizuki/sandbox.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "t-mochizuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t-mochizuki/sandbox/issues"
+  },
+  "homepage": "https://github.com/t-mochizuki/sandbox#readme"
+}
