@@ -1,2 +1,1 @@
---compilers js:babel/register
---require espower-babel/guess
+--compilers js:espower-babel/guess

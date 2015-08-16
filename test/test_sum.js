@@ -1,5 +1,5 @@
-let assert = require('power-assert')
-let sum = require('../dist/sum.js')
+import assert from 'power-assert'
+import sum from '../src/sum'
 
 describe('sum', () => {
   it('12 + 23', () => {
