@@ -1,0 +1,9 @@
+# Site settings
+title: sandbox
+# email: your-email@domain.com
+description: This site is a personal log.
+baseurl: "https://t-mochizuki.github.io/sandbox"
+url: ""
+
+# Build settings
+markdown: kramdown
