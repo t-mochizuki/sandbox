@@ -1,0 +1,32 @@
+.pager {
+    border: 1px solid #999;
+    overflow: hidden;
+}
+
+.pager ul {
+    list-style: none;
+    position: relative;
+    left: 50%;
+    float: left;
+}
+
+.pager ul li {
+    position: relative;
+    left: -50%;
+    float: left;
+}
+
+.pager ul li span,
+.pager ul li a {
+    display: block;
+    font-size: 16px;
+    padding: 0.6em 1em;
+}
+
+.pager ul li a {
+    background: #EEE;
+}
+
+.pager ul li a:hover {
+    background: #DDD;
+}
